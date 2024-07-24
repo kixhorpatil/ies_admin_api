@@ -12,7 +12,7 @@
 	<groupId>com.ies</groupId>
 	<artifactId>com.ies</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Integrated_Eligibility_System</name>
+	<name>IES_Admin_API</name>
 	<description>Integrated Eligibility System</description>
 	<url />
 	<licenses>
