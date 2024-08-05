@@ -11,7 +11,7 @@ public class PlanServiceImpl implements PlanService{
 
 	@Override
 	public boolean createPlan(PlanForm planForm) {
-		// TODO Auto-generated method stub
+		
 		return false;
 	}
 

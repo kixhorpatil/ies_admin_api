@@ -1,5 +1,7 @@
 package com.ies.bindings;
 
+import java.time.LocalDate;
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -18,8 +20,19 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class UserAccountForm {
+public class UserAccountForm {	
 
     // Define the fields to match the "Create Account" form
+//	private Long userId;
+	private String fullName;
+	private String email;
+//	private String pwd;
+	private Long mobileNo;
+	private String gender;
+	private LocalDate dob;
+	private Long ssn;
+//	private String accStatus;
+	private String activeSw;
+	private Integer roleId;
 
 }
